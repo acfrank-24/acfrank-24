@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, I'm Alice!
+- 🗽 I'm completing my MPA at Columbia SIPA
+- 📊 My specialization is data analytics
+- 🐍 I'm currently learning text analysis using python
+- 🤔 I’m interested in economics and how economists communicate
+
 
 <!--
 **acfrank-24/acfrank-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
