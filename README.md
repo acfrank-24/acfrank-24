@@ -3,6 +3,7 @@
 - 📊 My specialization is data analytics
 - 🐍 I'm currently learning text analysis using python
 - 🤔 I’m interested in economics and how economists communicate
+- 🤸‍♀️ My hobby is aerial hoop
 
 
 <!--
